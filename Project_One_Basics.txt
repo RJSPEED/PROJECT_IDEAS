@@ -1,0 +1,15 @@
+PROJECT ONE
+
+* Website for squash club members to enter internal league results, and knockout comp results
+* Site should report current league positions and all results for that 6 week period
+* Site should maintain results/final league tables history, searchable by user
+* Should display knockout comp results, current round of comp, and comp history details 
+* Potentially offer some stats analysis, ie. avg points conceded per game/match, etc (to be decided) 
+* Internal leagues run in 6 weeks blocks, all year round
+* Admin access should allow creation of new leagues with different participants every 6 weeks
+* Admin access should allow creation of new knockout comp, allocation of dates to rounds (comps take a few months to complete)
+* Both male and female sections
+* Website should also display contacts details
+* Each user should have their own username/password, plus ability to recover/reset password
+* Should be simple to use, offer easily readable displays and be scalable for mobile use 
+* This will actually be used by my squash club, so I guess I need to figure out what it will cost them to host somewhere ?
